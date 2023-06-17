@@ -1,0 +1,88 @@
+<mxfile host="app.diagrams.net" modified="2023-06-17T22:18:00.252Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.4.0" etag="Ad1n0d-2QpCmbLMG6yV7" type="github">
+  <diagram name="Page-1" id="XHzpOPJI3bc23zFGRWi-">
+    <mxGraphModel>
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="Develop a Mindmap to show how NIST SP Publications relate to one another" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="983" width="558" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="NIST SP 800- 53 Rev. 4: Security and Privacy Controls for Federal Information Systems and Organizations" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="38" y="84" width="760" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="NIST SP 800- 37 Rev. 2: Risk Management Framework for Information Systems and Organizations" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="912" y="84" width="701" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="NIST SP 800- 34 Rev. 1: Contingency Planning Guide for Information Technology Systems" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2166" y="84" width="643" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="NIST SP 800-171 Rev. 2: Protecting Controlled Unclassified Information in Nonfederal Systems and Organizations" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="168" width="817" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="NIST SP 800-53B: Control Baselines for Information Systems and Organizations" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="894" y="168" width="573" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="NIST SP 800- 53A Rev. 4: Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1517" y="168" width="1095" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="NIST SP 800- 61 Rev. 2: Computer Security Incident Handling Guide" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2662" y="168" width="493" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.00004550291218637993;exitY=0.9084197378578941;entryX=0.500390625;entryY=0;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="418" y="59" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4999334957437276;exitY=1;entryX=0.4992337954707561;entryY=0;" edge="1" parent="1" source="2" target="4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.9998214885752689;exitY=0.7812559520354215;entryX=0.49933782076205285;entryY=0;" edge="1" parent="1" source="2" target="5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2487" y="59" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4950648104636592;exitY=1;entryX=0.4997513769889841;entryY=0;" edge="1" parent="1" source="3" target="6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="408" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.6987189653822055;exitY=1;entryX=0.22507424244785174;entryY=0;" edge="1" parent="1" source="3" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="791" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="15" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.4992337954707561;exitY=1;entryX=0.5579788232101306;entryY=0;" edge="1" parent="1" source="4" target="7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1262" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.23360954510108864;exitY=1;entryX=0.5004031107305936;entryY=0;" edge="1" parent="1" source="5" target="8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2065" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="17" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.7650660964230172;exitY=1;entryX=0.5014341404665315;entryY=0;" edge="1" parent="1" source="5" target="9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2909" y="143" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
